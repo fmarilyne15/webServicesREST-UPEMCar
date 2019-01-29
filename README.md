@@ -1,5 +1,7 @@
 # Projet Services Web
 
+Travail réalisé par Marilyne FERREIRA, Landry MPATI, Issoufou OUSMANE MOUSSA
+
 ## Sujet
 
 La société UPEM Corp. vient d’acquérir la société RentCarsUPEM, spécialisée dans la location de véhicules. Elle désire faire profiter ses employés de ce service à prix préférentiel. Vous être chargés de la conception et l’implémentation d’une application Java de gestion de ce service, fondée sur Java RMI. Les véhicules de RentCarsUPEM peuvent être loués par tous les employés de UPEM Corp. Ces derniers peuvent ajouter des notes sur les véhicule et leur état lors de la restitution. L’application gérant la base de véhicules et celle gérant les employés s’exécutent dans deux JVM différentes.
